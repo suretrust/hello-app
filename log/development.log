@@ -1,0 +1,56 @@
+Started GET "/" for ::1 at 2019-04-08 14:27:11 +0100
+Processing by Rails::WelcomeController#index as HTML
+  Rendering /home/saheed/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb
+  Rendered /home/saheed/.rbenv/versions/2.5.3/lib/ruby/gems/2.5.0/gems/railties-5.2.3/lib/rails/templates/rails/welcome/index.html.erb (2.8ms)
+Completed 200 OK in 12ms (Views: 6.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-08 14:36:26 +0100
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 2ms (Views: 1.8ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-08 14:46:15 +0100
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 2ms (Views: 1.1ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-08 14:46:37 +0100
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 3ms (Views: 2.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-09 12:45:05 +0100
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 10ms (Views: 3.2ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-09 12:46:07 +0100
+Processing by ApplicationController#hello as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.7ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-09 12:47:19 +0100
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (0.1ms)
+Completed 200 OK in 3ms (Views: 2.5ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/" for ::1 at 2019-04-09 12:47:40 +0100
+Processing by ApplicationController#goodbye as HTML
+  Rendering html template
+  Rendered html template (0.0ms)
+Completed 200 OK in 1ms (Views: 0.8ms | ActiveRecord: 0.0ms)
+
+
